@@ -17,11 +17,37 @@
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  background-color: rgb(252, 248, 240);
+}
+html{
+  scroll-behavior: smooth;
+}
+
+.foto-perfil{
+  border-radius: 60px;
+  border: solid 1px #283db7;
+  box-shadow:2px 2px 2px #888888;
+}
+
+.skills{
+  box-shadow:2px 2px 2px #888888;
+}
+
+.img-about{
+  left: 70%;
+  top: 45em;
+}
+
+/* cartas */
+.overflow{
+  height: 50%;
+  overflow: hidden;
+}
+
+.overflow .card-img-top{
+  transform: scale(1);
+  transition: all 0.2s ease-in-out;
+}
+.overflow .card-img-top:hover{
+  transform: scale(1.8);
 }
