@@ -7,7 +7,9 @@ export const projects = [
         image:"card1-nuevo.png",
         icon1: <BiGlobe></BiGlobe>,
         icon2: <BiLogoGithub></BiLogoGithub>,
-        href: "https://github.com/GuarinX/Weed.com.git"
+        hrefGit: "https://github.com/GuarinX/MiPortafolio.git",
+        hrefWeb:"https://www.instagram.com/uxui_guarin/"
+
     },
     {
         title: "Weed.com",
@@ -15,7 +17,8 @@ export const projects = [
         image:"card2-nuevo.png",
         icon1: <BiGlobe></BiGlobe>,
         icon2: <BiLogoGithub></BiLogoGithub>,
-        href: "https://github.com/GuarinX/Weed.com.git"
+        hrefGit: "https://github.com/GuarinX/Weed.com.git",
+        hrefWeb:"https://www.instagram.com/uxui_guarin/"
     },
     {
         title: "Majestic Food",
@@ -23,6 +26,7 @@ export const projects = [
         image:"card1-nuevo.png",
         icon1: <BiGlobe></BiGlobe>,
         icon2: <BiLogoGithub></BiLogoGithub>,
-        href: "https://github.com/GuarinX/Weed.com.git"
+        hrefGit: "https://github.com/GuarinX/Weed.com.git",
+        hrefWeb:"https://www.instagram.com/uxui_guarin/"
     },
 ]
