@@ -14,13 +14,13 @@ export const Contact = () => {
                 {/* ficha */}
                 <div className="bg-[#fff] mx-auto container w-1/3 rounded-3xl text-center text-lg items-center font-bold">
                     <p className="pt-10 pb-5 flex justify-center items-center">
-                    <FaPhone className=" inline mr-2"/>+57 3154407138
+                    <FaPhone className=" inline mr-2 text-[#6a1b9a]"/>+57 3154407138
                     </p>
                     <p className=" flex justify-center items-center">
-                    <FaRegEnvelope className=" inline mr-2"/>guarinmelo797@gmail.com
+                    <FaRegEnvelope className=" inline mr-2 text-[#6a1b9a]"/>guarinmelo797@gmail.com
                     </p>
                     <p className="pb-10 pt-5 flex justify-center items-center">
-                    <FaLinkedin className=" inline mr-2"/>Alejandro Guarin Melo
+                    <FaLinkedin className=" inline mr-2 text-[#6a1b9a]"/>Alejandro Guarin Melo
                     </p>
                 </div>
             </div>

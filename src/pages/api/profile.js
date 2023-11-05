@@ -21,9 +21,9 @@ export const projects = [
         hrefWeb:"https://www.instagram.com/uxui_guarin/"
     },
     {
-        title: "Majestic Food",
+        title: "TuInfo",
         description: "Looking to take your team away on a retreat to enjoy awesome food and take in some sunshine? We have a list of places to do just that.",
-        image:"card1-nuevo.png",
+        image:"card3-nuevo.png",
         icon1: <BiGlobe></BiGlobe>,
         icon2: <BiLogoGithub></BiLogoGithub>,
         hrefGit: "https://github.com/GuarinX/Weed.com.git",

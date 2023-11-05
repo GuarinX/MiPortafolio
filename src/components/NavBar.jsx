@@ -7,7 +7,7 @@ export const NavBar = () => {
                 <a className="text-sm font-medium" href="#">HOME</a>
                 <a className="text-sm font-medium" href="#About">ABOUT</a>
                 <a className="text-sm font-medium" href="#Projects">PROJECTS</a>
-                <a className="text-sm font-medium" href="">CONTACT</a>
+                <a className="text-sm font-medium" href="#Contact">CONTACT</a>
             </div>
         </div>
     </nav>
